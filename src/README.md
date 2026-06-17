@@ -1,6 +1,6 @@
 # Web Development Project 2 - The Ultimate Cowboy!
 
-Submitted by: **Erkin**
+Submitted by: **Azamat Erkinov**
 
 This web app: **A flashcard application themed around southern cowboy culture to test your knowledge with interactive flip cards.**
 
@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/dbcb7d325e6c44e38e44465a18ea07d6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/PJUlhuu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Loom](https://www.loom.com).
 
@@ -51,7 +51,7 @@ No major challenges, adjusting the CSS to perfectly fit the new UI theme went sm
 
 ## License
 
-    Copyright [2026] [Erkin]
+    Copyright [2026] [Azamat Erkinov]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
