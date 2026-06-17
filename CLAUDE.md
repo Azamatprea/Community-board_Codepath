@@ -1,0 +1,1 @@
+This folder contains projects done by a student studying in a Web Development Course.
