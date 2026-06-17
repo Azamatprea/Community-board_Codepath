@@ -43,7 +43,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='https://imgur.com/PJUlhuu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Loom](https://www.loom.com).
+GIF can be accessed here if not showing up well: https://www.loom.com/share/dbcb7d325e6c44e38e44465a18ea07d6
 
 ## Notes
 
