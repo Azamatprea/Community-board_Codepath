@@ -1,16 +1,45 @@
-# React + Vite
+# Web Development Lab - Samosa Selector
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Submitted by: **Erkin**
 
-Currently, two official plugins are available:
+This web app: **A clicker game where users click a samosa to earn points and purchase upgrades to increase their clicking power.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Time spent: **1** hours spent in total
 
-## React Compiler
+## Required Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The following **required** functionality is completed:
 
-## Expanding the ESLint configuration
+- [x] **A user can click the Samosa to increase their counter**
+- [x] **A user can purchase upgrades to increase the number of samosas generated per click**
+- [x] **Double Stuffed: 2x multiplier for 10 samosas**
+- [x] **Party Pack: 5x multiplier for 100 samosas**
+- [x] **Full Feast: 10x multiplier for 1000 samosas**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The following **optional** features are implemented:
+
+* [x] Premium CSS styling with glassmorphism, modern gradients, and interactive hover/click animations.
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+
+<img src='https://i.imgur.com/PJUlhuu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with a screen recording tool.
+
+## License
+
+    Copyright [2026] [Erkin]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
