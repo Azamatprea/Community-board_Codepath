@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Environment variables - DO NOT COMMIT
+.env
+.env.local
+.env.production
+
+# Build output
+dist/
+
+# Editor
+.vscode/

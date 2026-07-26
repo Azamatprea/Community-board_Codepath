@@ -28,21 +28,21 @@ function FlashCard({ card }) {
   return (
     <div className="card-scene" onClick={handleClick}>
       <div className={`card-inner ${flipped ? "is-flipped" : ""}`}>
-        {/* FRONT — term */}
+        {/* FRONT — definition */}
         <div className={`card-face card-front ${colorClass}`}>
           <span className="card-category-badge">
             {categoryEmoji[card.category]} {card.category}
           </span>
-          <p className="card-term">{card.term}</p>
-          <p className="card-hint">Click to see the meaning</p>
+          <p className="card-definition">{card.definition}</p>
+          <p className="card-hint">Click to see the slang term</p>
         </div>
 
-        {/* BACK — definition + example */}
+        {/* BACK — term + example */}
         <div className={`card-face card-back ${colorClass}`}>
           <span className="card-category-badge">
             {categoryEmoji[card.category]} {card.category}
           </span>
-          <p className="card-definition">{card.definition}</p>
+          <p className="card-term">{card.term}</p>
           <p className="card-example">{card.example}</p>
           <p className="card-hint">Click to flip back</p>
         </div>
